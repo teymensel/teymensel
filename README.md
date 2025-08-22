@@ -1,8 +1,9 @@
 # 💫 Teymensel
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F00F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi,+I'm+Ömer+Faruk+Kolbasar+%F0%9F%91%8B;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F00F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi,+I'm+R+O+X+I+Y+E+L+L+%F0%9F%91%8B;" />
 </div>
+
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=omerfarukkolbasar&color=red&style=flat-square" alt="Profile Views" />
