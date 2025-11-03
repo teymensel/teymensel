@@ -6,7 +6,7 @@
 
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=omerfarukkolbasar&color=red&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=teymensel&color=red&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
